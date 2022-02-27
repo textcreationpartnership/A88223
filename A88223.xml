@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more full relation of the great battell fought betweene Sir Tho: Fairfax, and Goring. on Thursday last, 1645. Made in the House of Commons by Lieut: Col: Lilbourne, the last messenger that came from the army. With the manner of the fight, Goring cut on the eare. The Lieutenant Generall of the ordnance taken, and the particulars of what losse was on both sides. And the routing of a party of Gorivgs [sic] forces by the club-men. Also foure propositions presented to the House of Commons in the behalfe of the army. Commanded to be printed, and is published according to order.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88223</idno>
+            <idno type="STC">Wing L2144</idno>
+            <idno type="STC">Thomason E293_3</idno>
+            <idno type="STC">ESTC R200158</idno>
+            <idno type="EEBO-CITATION">99860963</idno>
+            <idno type="PROQUEST">99860963</idno>
+            <idno type="VID">113090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113090)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more full relation of the great battell fought betweene Sir Tho: Fairfax, and Goring. on Thursday last, 1645. Made in the House of Commons by Lieut: Col: Lilbourne, the last messenger that came from the army. With the manner of the fight, Goring cut on the eare. The Lieutenant Generall of the ordnance taken, and the particulars of what losse was on both sides. And the routing of a party of Gorivgs [sic] forces by the club-men. Also foure propositions presented to the House of Commons in the behalfe of the army. Commanded to be printed, and is published according to order.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Forcet for Peter Cole.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term>Langport (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113090:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>A More full Relation of the great Battell fought betweene Sir THO: FAIRFAX, and GORING, on <hi>Thurſday</hi> laſt, 1645.</p>
+            <p>Made in the Houſe of COMMONS by Lieut: Col: <hi>Lilbourne,</hi> the laſt Meſſenger that came from the Army.</p>
+            <p>With the manner of the Fight, <hi>Goring</hi> cut on the Eare. The Lieutenant Generall of the Ordnance taken, and the particulars of what loſſe was on both ſides. And the Rou<g ref="char:EOLhyphen"/>ting of a party of <hi>Gorings</hi> Forces by the Club-men.</p>
+            <p>Alſo foure Propoſitions preſented to the Houſe of Commons in the behalfe of the Army.</p>
+            <p>
+               <hi>Commanded to be Printed, and is Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by T. FORCET for PETER COLE. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113090:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:113090:2"/>
+            <!-- PDF PAGE 62 -->
+            <p>
+               <seg rend="decorInit">V</seg>Pon Munday being <hi>Iuly</hi> 14. 1645. were divers Letters brought to the Honoura<g ref="char:EOLhyphen"/>ble Houſe of Commons by Lieut. Col. <hi>Iohn Lilburn,</hi> to ſeverall Members there<g ref="char:EOLhyphen"/>of from Sir <hi>Thomas Fairfaxes</hi> army, and after the delivery of them he was called into the Houſe to give an account of what he knew concerning the late engagement neere <hi>Lam<g ref="char:EOLhyphen"/>part,</hi> and the queſtion being demanded by the Hon. Spea<g ref="char:EOLhyphen"/>ker, if he were at the late ingagement with <hi>Goring,</hi> he an<g ref="char:EOLhyphen"/>ſwered, yea, and being commanded to declare what he knew concerning it, he proceeded to this effect: May it pleaſe this Hon: Aſſembly, to afford me the liberty and I ſhall declare unto you nothing but that which J ſaw, and upon good ground I know to be true, and ſhall acquaint you with the Generals proceedings with his Army for 4. or 5 dayes before the Ingagement: that night the Generalls headquarter was at <hi>Bemaſter</hi> which is not farre from <hi>Lime,</hi> Lieut. Gen. <hi>Cromwell</hi> (by the Generals command) ſent out a Party of about 120 Horſe under the Command of Captaine <hi>Pat<g ref="char:EOLhyphen"/>tiſon</hi> to <hi>Crookhorne</hi> ſome 5 miles from the head quarters, to diſcover if it were poſſible the motions of the Enemy, and marching according to his command ſent a ſmall party in<g ref="char:EOLhyphen"/>to the Town, Commanded by Captaine <hi>Whiting</hi> by which was taken an <hi>Iriſh</hi> Cornet and ſome other Priſoners, and be<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:113090:3"/>
+               <!-- PDF PAGE 63 -->
+brought unto Sir <hi>Thomas</hi> quarters, and upon the intel<g ref="char:EOLhyphen"/>ligence received from them. The Generall Comman<g ref="char:EOLhyphen"/>ded Orders to be iſſued out to Collonel <hi>Charles Fleetwood,</hi> to draw out his Regiment with another that quarterd with him at <hi>Brood Winſor,</hi> and to be upon their march the next morning by 4 a clock after the Enemy, and having the next day, an additional ſtrength joyned to him of horſe and Dra<g ref="char:EOLhyphen"/>goons, hee purſued them to <hi>Peverton Bridge</hi> where after a ſmall Skirmiſh he tooke ſome Priſoners, and that night our head quarters were at <hi>Crook-horn,</hi> and the next day being the Lords day, we ſtayed there. And upon Munday <hi>Iuly</hi> 7 our Rendesvouz was at <hi>Peverton</hi> where was a Con<g ref="char:EOLhyphen"/>junction of Generall Major <hi>Maſſeys</hi> forces and Collonels <hi>Welden</hi> to the Generals, <hi>Goring</hi> having got beyond the River upon which <hi>Bridgewater</hi> ſtands lay in ſafety that we could not come to him having 4 Garriſons and guards upon <hi>Load</hi> Bridge, &amp; all other paſſages upon the river: the Gen<g ref="char:punc">▪</g> having viewed many parts of the River marched downe towards <hi>Ilcheſter</hi> with a conſiderable body of Horſe and Dragoons, to ſee if it were feſable to force a Paſſage there, but it be<g ref="char:EOLhyphen"/>ing not to be done without an extraordinary hazard, <hi>Goring</hi> having fortified both the County Jayles which ſtood juſt upon the Paſſe, and upon a large debate at a Counſell of Warre in the field, it was concluded to march that night to <hi>Evill</hi> 4 miles from <hi>Sherburne,</hi> and there to get a Paſſe, of which <hi>Goring</hi> underſtanding betimes in the morning, quitted his hould at <hi>Ilchester,</hi> and drew downe with his whole Army to <hi>Lampart</hi> upon which the Generall marched that day to <hi>Ilcheſter</hi> and there kept his head quarters, Ordering Major Gen. <hi>Maſſey</hi> with about 5000 Horſe Dragoons to march up toward <hi>Ilmaſter,</hi> which lyes within 6 miles of <hi>Taunton,</hi> to ſtraiten the Enemy in their quarters and to take ad<g ref="char:EOLhyphen"/>vantage of them if it were adminiſtred and the next day the Gen. Major having intelligence that a good party of the Enemy were Graſing their Horſes within 2 miles of them, fell upon the<g ref="char:cmbAbbrStroke">̄</g>, and took about 300 Horſes, and about 200 Priſoners, cut <hi>Goring</hi> in the Eare,
+<pb n="5" facs="tcp:113090:3"/>
+               <!-- PDF PAGE 63 -->
+and ſlew his Quartermaſter Generall<g ref="char:punc">▪</g> with divers others<g ref="char:punc">▪</g> (at which time Collonel <hi>Cooke</hi> was ſhot through the mouth) and forced the remaining party of the Enemy to retreat to <hi>Lampart.</hi> The ſame day the Generall marched to <hi>Long Sutton,</hi> where at the further end of the Towne next <hi>Lampart,</hi> he drew out both horſe and foot, where<g ref="char:EOLunhyphen"/>in the fallow Field &amp; paſſe, was ſome ſmall skirmiſhes betwixt us and the Enemy, ſome Priſoners of theirs was taken: toward the Evening we heard the Muſquets goe off very thicke towards Major Generall <hi>Maſſeys</hi> quarters, which were on the other ſide of the River, and the Generall not well knowing how it went with him, ordered Col. <hi>Mountague</hi> who then was quartered at <hi>Martack</hi> (in <hi>Maſſeys</hi> teare) to march up with the greateſt part of his Brigade of foot to his aſſi<g ref="char:EOLhyphen"/>ſtance and that night quartered his other two Brigades of foot (which are commanded by Collonel <hi>Ransborow,</hi> and Col. <hi>Welden</hi>) in <hi>Long-Sutton</hi> and the reſt of the horſe hard by them, the next mor<g ref="char:EOLhyphen"/>ning called a Councell of Warre to conſider what was fitteſt to be done, and being ready to take horſe, Mr. <hi>Hollis</hi> and one other Club Commiſſioner, delivered a Petition to the Generall from the Club-men of <hi>Dorſetſhire</hi> (who are very vild and malignant) to deſire Iu<g ref="char:EOLhyphen"/>ſtice againſt the Governour of <hi>Lime,</hi> in which Petition they ſpeake very high language, and while hee was a talking with them came in an alarum that the Enemy were drawne out of <hi>Lampart</hi> and ad<g ref="char:EOLhyphen"/>vancing both with horſe and foot, upon which the Generall preſently ordered all his Forces that were on that ſide of the River with him to bee drawne out, and having ſent Orders to Generall Major <hi>Maſsey</hi> to ſend him over ſome of his Forces with him, being not very long in the field, divers Countrymen came to the Generall and told him <hi>Goring</hi> was ſending away his Carriages to Bridge-wa<g ref="char:EOLhyphen"/>ter, divers of them being upon their march; Upon which the Gen: cauſed all things to be ſet in order for the Battell, and ordered Colonell <hi>Ransborow</hi> to draw out about 1500. musketiers for commanded partees to diſpoſeſſe the Ene<g ref="char:EOLhyphen"/>my of the hedges which they had lined very thicke, that ſo the Paſſe might be gained which was but very narrow be<g ref="char:EOLhyphen"/>twixt us and the Enemy, the Cannoners ordered their Guns, the muskets and Cannon playing very hot, the Can<g ref="char:EOLhyphen"/>noniers
+<pb n="6" facs="tcp:113090:4"/>
+               <!-- PDF PAGE 64 -->
+playing their parts as gallently as ever I ſaw Gun<g ref="char:EOLhyphen"/>ners in my life, who made the ground very hot for the E<g ref="char:EOLhyphen"/>nemy to ſtand upon: It coming to Major <hi>Bethels</hi> turne to charge with his forelorne of horſe, which conſiſted of 3. Troops of Col: <hi>Wales</hi> Regiment, <hi>Viz.</hi> Maior <hi>Bethels,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Evinſons,</hi> and Capt. <hi>Groves:</hi> Maior <hi>Desborow</hi> with 3. Troops of the Generalls own Regime<g ref="char:cmbAbbrStroke">̄</g>nt being to ſecond them, <hi>Bethell</hi> upon command given, led on his own troop through the water which was deepe and dirty and ve<g ref="char:EOLhyphen"/>ry narrow, the Enemy having a very large body at the tope of the lane, many times over his number, charged them with as much gallentry as ever I ſaw men in my life, force<g ref="char:EOLhyphen"/>ing them with the ſword to give ground, which made way for Capt. <hi>Evinſons</hi> Troope to draw out of the lane, and front with him, driving the enemies great body and their reſerve up the hill, but a very great freſh body of the Ene<g ref="char:EOLhyphen"/>mies horſe coming upon them, forced them to retreat to Capt. <hi>Grove</hi> who was their reſerve, who drawing his men cloſe, received the enemy with much bravery &amp; reſolution, and gave liberty to his friends to rally and front with him who all three charged the enemies numerous bodies very furiouſly and routed them quite, which made way for our musketiers to run up the hedges and gaule the enemy; and for Major <hi>Desborow</hi> to draw his 3. Troops out of the lane and front with <hi>Bethell,</hi> upon which 6. Troops, divers mighty bodies of the enemies came, and haveing diſputed it ſoundly with their ſwords, the foot marching up furi<g ref="char:EOLhyphen"/>ouſly, and the other Troops ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered up; God tooke away the enemies Courage, and away they run: Of which charge of Major <hi>Bethels,</hi> I heard the Generall, Lieutenant general, and all the chiefe Officers that ſaw it, ſay, it was one of the braveſt that ever their eies beheld, and being routed, the greateſt part of them tooke toward Bridge-water, after
+<pb n="7" facs="tcp:113090:4"/>
+               <!-- PDF PAGE 64 -->
+whom Maior <hi>Bethell,</hi> and Maior <hi>Desborow</hi> perſued a full gallop with a good body or horſe very neer Bridg-water, the enemy ſeverall times at the Bridges faceing about, and charged the perſuers, where good ſtore of themſelves and horſes were forced into the Ditches: Another part of the Enemy where <hi>Goring</hi> was himſelfe, being about 1000. horſe and ſome foot with 2. Peeces of Ordnance and 4. or 5. Waggons tooke into Lampert Town which at the low<g ref="char:EOLhyphen"/>er end hard by the Bridge they fired on both ſides of the Town, that ſo none might purſue them; Yet notwith<g ref="char:EOLhyphen"/>ſtanding Leiutenant Generall <hi>Cromwell</hi> carered after them with a body of horſe, and rid through the fired ſtreet in much danger, and tooke there 2. Guns, ſome Carriages and many priſoners; <hi>Goring</hi> and that partee as is ſuppoſed be<g ref="char:EOLhyphen"/>ing fled to Exeter: The number of the enemy that was taken that day was conceived to be about 2000. and about 1500. of their horſe, and of men of quallity there was ta<g ref="char:EOLhyphen"/>ken there, Leiutenant Generall of their Ordnance, 3. or 4. Horſe Colonels, beſides divers other Officers, and good quantities of Armes; but being the liſt was not brought in to the Gen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall; I am not able to give you a more par<g ref="char:EOLhyphen"/>ticular account, and of our friends I could not conceive there was above 30. ſlain; and for wounded men, I think the moſt was in <hi>Bethels</hi> Troope, who had about 14. or 16. gallant and honeſt men wounded, and himſelfe in the pur<g ref="char:EOLhyphen"/>ſuite had his Thumbe and his 2. fore fingers ſhattered with a Piſtoll bullet.</p>
+            <p>The Speaker demanding if he had any Letters from the Generall, was anſwered, He ſtaid at the Generalls Quar<g ref="char:EOLhyphen"/>ters for his Letters which were a writting, but haſty buſi<g ref="char:EOLhyphen"/>neſſe coming in, the Generall preſently tooke Horſe and went to the Rendezvouz which was in the way to <hi>Weſton</hi> 2. miles on this ſide <hi>Bridgewater</hi> where the head quarters were to be on <hi>Friday</hi> night, when I came from him, and Gen. Ma<g ref="char:EOLhyphen"/>jor <hi>Maſſeys</hi> quarters, being 2 miles from <hi>Bridgewater</hi> on the
+<pb n="8" facs="tcp:113090:5"/>
+               <!-- PDF PAGE 65 -->
+other ſide of the river, &amp; great ſtore of Club-men being up, amongſt whom were 500 Musketiers, that keepes a paſſe that ſtops <hi>Gorings</hi> men from marching to <hi>Briſtow</hi> with their Carriages, them Club-men being very right for the Parliament, having upon the Rout taken di<g ref="char:EOLhyphen"/>vers Horſe and Armes from <hi>Gorings</hi> men, the Gen. had begirt a pet<g ref="char:EOLhyphen"/>ty Garriſon of theirs ſtanding upon a ſtrong hill called <hi>Bridges,</hi> as J remember, with Col<g ref="char:punc">▪</g> 
+               <hi>Okeys</hi> Dragoons which I beleeve is his owne.</p>
+            <p>He further ſaid: Now may it pleaſe this Hon. Aſſembly to give me leave to ſpeake two or 3 words of my owne thoughts which I deſire to doe, if without offence J may, which J ſhall reduce into theſe heads. J humbly conceive if you will be pleaſed to doe but three or 4 things, Sir <hi>Thomas</hi> will be able in a few moneths to render you a good account of the whole Weſt, and make it a peaceable place.</p>
+            <p n="1">
+               <hi>The first is, to have a ſpeciall care to pay his Souldiers, that ſo they may conſtantly be able to pay their Quarters, the doing of which hath infinitly gained the Countrey, and if continued will ſpeedily make them a people in many thouſands to doe you faithfull ſervice, for I can aſsure you the Preſſures of the Ene<g ref="char:EOLhyphen"/>my towards them were unſupportable, who had not onely free quarter of the beſt that could be provided but alſo had a dayes pay layd under their trenchers, of which if they miſsed they were ready to kill their Landlords, or to plunder them. Yea in many places where they enjoyed the</hi> 2 <hi>former they performed the latter alſo, inſomuch that when we came amongst the people and demanded when we were to march away what we had to pay for our quarters, the people wondred at us, what kind of men we were or what we meant by ſuch a queſtion. Divers of them telling us they never knew what it was to finger Souldiers money; ſo that I am confidently perſwaded, the readieſt way to make the people yours, is to inable the Souldiers to pay their quarters.</hi>
+            </p>
+            <p n="2">2. <hi>Thing is conſtantly to recrute the Army<g ref="char:punc">▪</g> that thereby they may be the better inabled with ſpeed to reduce the Garriſons, and to keepe up their reputation amongſt their Enemies to be a formidable Army.</hi> 3. <hi>To give incouragement to men that ſerve you upon principals of honour and honeſty.</hi> 4. <hi>To provide a good and preſent ſupply of Stockings, and Shooes, for the poore Common ſouldier, who are mightily in want for thoſe neceſſaries by their long and continued marches.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
